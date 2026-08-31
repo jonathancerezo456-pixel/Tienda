@@ -1,4 +1,0 @@
-# Ignorar carpeta proformas y archivos no deseados
-proformas/
-__pycache__/
-*.pyc
